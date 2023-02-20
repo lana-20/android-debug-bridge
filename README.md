@@ -9,7 +9,10 @@ Android Debug Bridge (adb) is a versatile command-line tool that lets me communi
 
 <code>adb</code> is included in the Android SDK Platform Tools package. 
 
-<img width="844" alt="Screenshot 2023-02-19 at 10 51 33 PM" src="https://user-images.githubusercontent.com/70295997/220033837-f378a652-80a4-492e-8b4c-b49d40d039a4.png">
+<img width="600" alt="Screenshot 2023-02-19 at 10 51 33 PM" src="https://user-images.githubusercontent.com/70295997/220033837-f378a652-80a4-492e-8b4c-b49d40d039a4.png">
+
+<img width="1800" alt="Screenshot 2023-02-20 at 1 40 28 AM" src="https://user-images.githubusercontent.com/70295997/220069555-a2db0d50-1384-425b-afa3-6d8eb6c38c2a.png">
+
 
 ★ [ADB logcat](https://github.com/lana-20/adb-logcat-options-filters)
 
