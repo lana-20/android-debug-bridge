@@ -15,8 +15,13 @@ Android Debug Bridge (adb) is a versatile command-line tool that lets me communi
 
 ★ [ADB logcat](https://github.com/lana-20/adb-logcat-options-filters)
 
-
 ★ [ANR vs Crash](https://github.com/lana-20/anr-vs-crash)
 
 ★ [ADB logcat vs bugreport - ANR vs Crash continued](https://github.com/lana-20/android-crash-anr-logcat-bugreport)
 
+* [ADB commands](https://github.com/lana-20/adb-commands)
+
+How ADB Works:
+- [Android Developer](https://developer.android.com/studio/command-line/adb)
+- [Google Git](https://android.googlesource.com/platform/system/core/+/master/adb/OVERVIEW.TXT)
+- [dummies.com](https://www.dummies.com/web-design-development/mobile-apps/android-apps/android-emulators-or-whats-so-special-about-the-number-5554/)
