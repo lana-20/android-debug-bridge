@@ -28,6 +28,7 @@ Where the ***Daemon (adbd)*** fits in the context of the Android Boot Sequence:
 ----
 
 How ADB Works:
+- [Droidcon - Magic of ADB](https://www.droidcon.com/2019/11/15/magic-of-adb/?video=380854175)
 - [Android Developer](https://developer.android.com/studio/command-line/adb)
 - [Google Git](https://android.googlesource.com/platform/system/core/+/master/adb/OVERVIEW.TXT)
 - [dummies.com](https://www.dummies.com/web-design-development/mobile-apps/android-apps/android-emulators-or-whats-so-special-about-the-number-5554/)
