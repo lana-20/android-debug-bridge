@@ -21,6 +21,11 @@ Where the ***Daemon (adbd)*** fits in the context of the Android Boot Sequence:
 
 <img width="1800" src="https://user-images.githubusercontent.com/70295997/222864274-a5528b68-b1d7-4ac0-b19e-3992ebd0088b.png">
 
+How ADB compares to SSH:
+
+<img width="800" src="https://user-images.githubusercontent.com/70295997/222871591-30617ef3-76a5-4370-8257-48de1e437222.png">
+
+
 ★ [ADB logcat](https://github.com/lana-20/adb-logcat-options-filters)
 
 ★ [ANR vs Crash](https://github.com/lana-20/anr-vs-crash)
