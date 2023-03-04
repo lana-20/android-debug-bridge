@@ -13,6 +13,10 @@ Android Debug Bridge (adb) is a versatile command-line tool that lets me communi
 
 <img width="1800" alt="Screenshot 2023-02-21 at 4 43 28 PM" src="https://user-images.githubusercontent.com/70295997/220491495-466bdbb6-967b-4d21-ab34-23ef858cea90.png">
 
+Where the ***Daemon (adbd)*** fits in the context of the Android Boot Sequence:
+
+<img width="1800" src="https://user-images.githubusercontent.com/70295997/222864274-a5528b68-b1d7-4ac0-b19e-3992ebd0088b.png">
+
 ★ [ADB logcat](https://github.com/lana-20/adb-logcat-options-filters)
 
 ★ [ANR vs Crash](https://github.com/lana-20/anr-vs-crash)
