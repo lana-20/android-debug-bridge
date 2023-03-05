@@ -36,7 +36,11 @@ How ADB compares to SSH:
 
 ★ [ADB system services](https://github.com/lana-20/adb-system-services)
 
+★ [ADB shell and file system](https://github.com/lana-20/adb-shell)
+
 ★ [ADB screen copy](https://github.com/lana-20/adb-screen-copy)
+
+
 
 ----
 
